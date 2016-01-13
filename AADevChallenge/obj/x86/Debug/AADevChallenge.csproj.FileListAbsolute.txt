@@ -1,0 +1,14 @@
+C:\AADevChallenge\AADevChallenge\bin\Debug\AADevChallenge.exe
+C:\AADevChallenge\AADevChallenge\bin\Debug\AADevChallenge.pdb
+C:\AADevChallenge\AADevChallenge\obj\x86\Debug\AADevChallenge.exe
+C:\AADevChallenge\AADevChallenge\obj\x86\Debug\AADevChallenge.pdb
+C:\AADevChallenge\AADevChallenge\obj\x86\Debug\AADevChallenge.csprojResolveAssemblyReference.cache
+C:\BOTH OS\Web Dev\AA Dev Challenge\AADevChallenge\AADevChallenge\obj\x86\Debug\AADevChallenge.exe
+C:\BOTH OS\Web Dev\AA Dev Challenge\AADevChallenge\AADevChallenge\obj\x86\Debug\AADevChallenge.pdb
+C:\BOTH OS\Web Dev\AA Dev Challenge\AADevChallenge\AADevChallenge\bin\Debug\AADevChallenge.exe
+C:\BOTH OS\Web Dev\AA Dev Challenge\AADevChallenge\AADevChallenge\bin\Debug\AADevChallenge.pdb
+C:\BOTH OS\Web Dev\AA Dev Challenge\AADevChallenge\AADevChallenge\obj\x86\Debug\AADevChallenge.csprojResolveAssemblyReference.cache
+C:\AADevChallenge\AADevChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\AADevChallenge\AADevChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\BOTH OS\Web Dev\AA Dev Challenge\AADevChallenge\AADevChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\BOTH OS\Web Dev\AA Dev Challenge\AADevChallenge\AADevChallenge\bin\Debug\Newtonsoft.Json.xml
